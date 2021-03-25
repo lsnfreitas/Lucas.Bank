@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Curso .NET\Projetos\Lucas.Bank\obj\Debug\net5.0\Lucas.Bank.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Curso .NET\Projetos\Lucas.Bank\obj\Debug\net5.0\Lucas.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Curso .NET\Projetos\Lucas.Bank\obj\Debug\net5.0\Lucas.Bank.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Curso .NET\Projetos\Lucas.Bank\obj\Debug\net5.0\Lucas.Bank.AssemblyInfo.cs
+C:\Users\User\Desktop\Curso .NET\Projetos\Lucas.Bank\obj\Debug\net5.0\Lucas.Bank.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso .NET\Projetos\Lucas.Bank\bin\Debug\net5.0\Lucas.Bank.exe
+C:\Users\User\Desktop\Curso .NET\Projetos\Lucas.Bank\bin\Debug\net5.0\Lucas.Bank.deps.json
+C:\Users\User\Desktop\Curso .NET\Projetos\Lucas.Bank\bin\Debug\net5.0\Lucas.Bank.runtimeconfig.json
+C:\Users\User\Desktop\Curso .NET\Projetos\Lucas.Bank\bin\Debug\net5.0\Lucas.Bank.runtimeconfig.dev.json
+C:\Users\User\Desktop\Curso .NET\Projetos\Lucas.Bank\bin\Debug\net5.0\Lucas.Bank.dll
+C:\Users\User\Desktop\Curso .NET\Projetos\Lucas.Bank\bin\Debug\net5.0\ref\Lucas.Bank.dll
+C:\Users\User\Desktop\Curso .NET\Projetos\Lucas.Bank\bin\Debug\net5.0\Lucas.Bank.pdb
+C:\Users\User\Desktop\Curso .NET\Projetos\Lucas.Bank\obj\Debug\net5.0\Lucas.Bank.dll
+C:\Users\User\Desktop\Curso .NET\Projetos\Lucas.Bank\obj\Debug\net5.0\ref\Lucas.Bank.dll
+C:\Users\User\Desktop\Curso .NET\Projetos\Lucas.Bank\obj\Debug\net5.0\Lucas.Bank.pdb
+C:\Users\User\Desktop\Curso .NET\Projetos\Lucas.Bank\obj\Debug\net5.0\Lucas.Bank.genruntimeconfig.cache
